@@ -13,12 +13,13 @@
     width: 500px;
     margin-right: auto;
     margin-left: auto;
-    background-color: #65553e;
-    border-bottom: 30px solid #45483d;
+    /* background-color: #65553e; */
+    background-color: #ffe5d9;
+    /* border-bottom: 30px solid #45483d; */
+    border-bottom: 30px solid #f8ad9d;
     border-radius: 36px;
 }
 
 .description{
     padding:10px;
-
 }

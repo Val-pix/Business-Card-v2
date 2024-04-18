@@ -1,0 +1,24 @@
+/* main{
+    text-align: center;
+} */
+
+.profile{
+    width: 130px;
+    border-radius: 16%;
+    margin: 20px;
+}
+
+.card{
+    display: flex;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #65553e;
+    border-bottom: 30px solid #45483d;
+    border-radius: 36px;
+}
+
+.description{
+    padding:10px;
+
+}
